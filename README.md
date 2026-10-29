@@ -131,5 +131,5 @@ The total is 11
 
 ## Submission
 
-Submit a link to your Feedback PR to the Canvas Assignment page
+Follow the instructions in GITHUB_SETUP.md
 
